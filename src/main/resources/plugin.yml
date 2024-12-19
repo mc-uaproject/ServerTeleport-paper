@@ -1,0 +1,4 @@
+name: ServerTeleport-paper
+version: '1.0-SNAPSHOT'
+main: org.vinerdream.serverTeleportPaper.ServerTeleportPaper
+api-version: '1.21'
